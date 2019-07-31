@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ASTQB Certification Quiz</string>
+    <string name="intro_text">Welcome to the ASTQB Certfication quiz. Select or enter the most appropriate answer(s)
+        for each question. When you are finished, tap the Submit Answers button to get your score.</string>
+    <string name="question_1">Question 1</string>
+    <string name="q1_text">Which of the following are causes of errors? Choose all that apply.</string>
+    <string name="q1a1">Complexity of the code</string>
+    <string name="q1a2">Inexperienced developers</string>
+    <string name="q1a3">Radiation</string>
+    <string name="q1a4">Time pressure</string>
+    <string name="question_2">Question 2</string>
+    <string name="q2_text">Testing can prove there are no defects in a system.</string>
+    <string name="q2a1">True</string>
+    <string name="q2a2">False</string>
+    <string name="question_3">Question 3</string>
+    <string name="q3_text">If the same tests are repeated over and over again, eventually these tests no longer find new defects. What is the name for this term?</string>
+    <string name="q3_hint">Enter the term here</string>
+    <string name="question_4">Question 4</string>
+    <string name="q4_text">Which test activity answers the question \"How to test?\"</string>
+    <string name="q4a1">Test analysis</string>
+    <string name="q4a2">Test design</string>
+    <string name="q4a3">Test implementation</string>
+    <string name="q4a4">Test execution</string>
+    <string name="submit_button">Submit Answers</string>
+</resources>
